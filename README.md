@@ -2,6 +2,10 @@
 
 I'm Java developer, currently living and working in Krakow, Poland.
 
+<a href="https://scq.io/po0kf6T">Certificates</a>
+
+<a href="https://leetcode.com/wlad031/">Leetcode</a>
+
 <a href="https://www.linkedin.com/in/wlad031/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/wlad031/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
