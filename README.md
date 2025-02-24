@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a **Java Developer** with over 8 years of expe
 
 ## 🚀 About Me
 
+- 📝 **[My CV](https://cv.vgerasimov.dev)**
 - 💻 I specialize in **Java** but also work with **Python**, **Docker**, **Ansible**, **Compose**, and **PostgreSQL**.
 - 🧑‍🎓 **[My Certificates](https://scq.io/po0kf6T)**
 - 🤍 I love **functional programming**!
